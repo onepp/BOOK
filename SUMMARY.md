@@ -1,6 +1,6 @@
 # Table of contents
 
-* [শাকিলের কবিতা সমগ্র](README.md)
+* [নির্বাচিত কবিতা সমগ্র](README.md)
 * [ভুমিকা](undefined.md)
 * [অভিমত](undefined-1.md)
 * [ইচ্ছে](01.md)
